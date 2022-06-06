@@ -1,0 +1,5 @@
+project: ancient
+target: ancient
+
+cmds:
+  - cmd: /repo/.libs/ancient identify @@
