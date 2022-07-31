@@ -2,4 +2,4 @@ project: ancient
 target: ancient
 
 cmds:
-  - cmd: /repo/.libs/ancient identify @@
+  - cmd: /install/bin/ancient identify @@
