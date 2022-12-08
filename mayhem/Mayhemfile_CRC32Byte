@@ -1,0 +1,6 @@
+project: ancient
+target: crc32byte
+
+cmds:
+  - cmd: /fuzz_CRC32Byte
+    libfuzzer: true
